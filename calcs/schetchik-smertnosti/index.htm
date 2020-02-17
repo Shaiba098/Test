@@ -1,0 +1,287 @@
+﻿<!doctype html>
+<html>
+<head>
+    <title>Счетчик смертности онлайн в реальном времени</title>
+    <meta name="description" content="Все когда нибудь задавались вопросом - сколько людей умирает ежедневно. Это не веселая статистика. Но мы создали этот познавательный сервис. Можно наглядно, в режиме онлайн, увидеть статистику смертей в час, минуту. секунду. В России и по всему миру">
+    <meta name="keywords" content="смертность умирает смерть людей человек население убывает день час минута секунда 24 скорость онлайн реальном времени россия мир">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="yandex-verification" content="168fdfe93ae759f5">
+    <link rel="stylesheet" type="text/css" href="..\..\style\datepicker.material.css">
+    <link rel="stylesheet" type="text/css" href="..\..\style\style.css?v=6">
+    <link rel="stylesheet" type="text/css" href="..\..\style\mobile.css?v=5">
+    <script src="..\..\js\jquery-3.2.1.min.js"></script>
+    <script charset="utf-8" src="https://api-maps.yandex.ru/1.1/index.xml" type="text/javascript"></script>
+    <script src="..\..\js\sticky.min.js"></script>
+    <script src="..\..\js\datepicker.js"></script>
+    <script src="..\..\js\script.js?v=4"></script>
+    <script src="..\..\js\howler.min.js"></script>
+
+    <script src="..\..\js\counter.js"></script>    
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-8091271152268111",
+          enable_page_level_ads: true
+     });
+</script>
+
+    
+</head>
+
+<body>
+
+<ul id="links">
+    <li><a href="..\..\index.htm">онлайн секундомер</a></li>
+    <li><a href="..\..\onlinetimer\index.htm">онлайн таймер</a></li>
+    <li><a href="..\..\onlinebudilnik\index.htm">онлайн будильник</a></li>
+    <li>
+        <a href="..\..\onlinemetronom\index.htm">онлайн метроном</a>        <ul>
+            <li><a href="..\..\onlinemetronom\tablica-tempov\index.htm">таблица темпов</a></li>
+            <li><a href="..\..\onlinemetronom\istoriya\index.htm">история метронома</a></li>
+            <li><a href="..\..\onlinemetronom\modeli\index.htm">модели метрономов</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="..\..\skolko-ostalos-do\index.htm">сколько осталось до</a>        <ul>
+            <li>
+                <span>времена года</span>
+                <ul>
+                    <li><a href="..\..\skolko-ostalos-do\zimy\index.htm">сколько осталось до зимы</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\vesny\index.htm">сколько осталось до весны</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\leta\index.htm">сколько осталось до лета</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\oseni\index.htm">сколько осталось до осени</a></li>
+                </ul>
+            </li>
+            <li>
+                <span>праздники</span>
+                <ul>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-uchitelya\index.htm">сколько осталось до дня учителя</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-narodnogo-edinstva\index.htm">сколько осталось до дня народного единства</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-konstitucii-rf\index.htm">сколько осталось до дня конституции рф</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\katolicheskogo-rozhdestva\index.htm">сколько осталось до католического рождества</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\novogo-goda\index.htm">сколько осталось до нового года</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\pravoslavnogo-rozhdestva-v-rossii\index.htm">сколько осталось до Православного Рождества</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\starogo-novogo-goda\index.htm">сколько осталось до старого нового года</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-studenta-i-tatyany\index.htm">сколько осталось до дня студента/татьянин день</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-svyatogo-valentina\index.htm">сколько осталось до дня святого валентина</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-zashchitnika-otechestva\index.htm">сколько осталось до дня защитника отечества</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\kitajskogo-novogo-goda\index.htm">сколько осталось до китайского нового года</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\maslenicy\index.htm">сколько осталось до масленицы</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\mezhdunarodnogo-zhenskogo-dnya\index.htm">сколько осталось до международного женского дня</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-smekha\index.htm">сколько осталось до 1 апреля</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-kosmonavtiki\index.htm">сколько осталось до дня космонавтики</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\pravoslavnoj-svetloj-paskhi\index.htm">сколько осталось до Православной Светлой Пасхи</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\katolicheskoj-svetloj-paskhi\index.htm">сколько осталось до католической светлой пасхи</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\prazdnika-vesny-i-truda\index.htm">сколько осталось до 1 мая</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-pobedy\index.htm">сколько осталось до дня победы</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-rossii\index.htm">сколько осталось до дня россии</a></li>
+                </ul>
+            </li>
+            <li>
+                <span>прочие таймеры</span>
+                <ul>
+                    <li><a href="..\..\skolko-ostalos-do\konca-sveta\index.htm">сколько осталось до конца света</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\nochi\index.htm">сколько осталось до ночи</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\okonchaniya-sroka-putina\index.htm">сколько осталось Путину быть президентом</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="right-sub">
+        <a href="..\..\sluzhba-tochnogo-vremeni\index.htm">служба точного времени</a>        <ul>
+            <li><a href="..\..\sluzhba-tochnogo-vremeni\nomera-telefonov\index.htm">телефонные номера служб точного времени</a></li>
+            <li><a href="..\..\sluzhba-tochnogo-vremeni\zakon-rf\index.htm">закон о времени в Российской Федерации</a></li>
+            <li><a href="..\..\sluzhba-tochnogo-vremeni\chasy-bezier\index.htm">часы по принципу кривых Безье</a></li>
+            <li><a href="..\..\sluzhba-tochnogo-vremeni\timestamp-unix\index.htm">unix epoch время - Timestamp</a></li>
+        </ul>
+    </li>
+    <li class="right-sub">
+        <a href="..\index.htm">калькуляторы времени</a>        <ul>
+            <li><a href="..\vremya-mezhdu-dvumya-datami\index.htm">время между двумя датами</a></li>
+            <li><a href="..\data-cherez-x-dnej\index.htm">дата через Х дней</a></li>
+            <li><a href="..\den-nedeli-po-date\index.htm">узнать день недели по дате</a></li>
+            <li><a href="..\konverter-unix-epoch\index.htm">конвертер unix epoch времени</a></li>
+            <li><a href="..\vremya-poleta-na-samolete\index.htm">время полета на самолете из пункта А в Б</a></li>
+            <li><a href="..\schetchik-rozhdaemosti\index.htm">счетчик рождаемости в России и мире</a></li>
+            <li><a href="index.htm">счетчик смертности в России и мире</a></li>
+        </ul>
+    </li>
+
+    <!-- start mobile menu -->
+    <li class="mobile-menu">
+        <a class="mobile-menu-trigger" href="#"><img src="..\..\img\menu.png"></a>
+        <ul class="mobile-menu-wrap">
+            <li><a href="..\..\onlinebudilnik\index.htm">онлайн будильник</a></li>
+            <li>
+                <a href="..\..\onlinemetronom\index.htm">онлайн метроном</a>
+                <ul>
+                    <li><a href="..\..\onlinemetronom\tablica-tempov\index.htm">- таблица темпов</a></li>
+                    <li><a href="..\..\onlinemetronom\istoriya\index.htm">- история метронома</a></li>
+                    <li><a href="..\..\onlinemetronom\modeli\index.htm">- модели метрономов</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="..\..\skolko-ostalos-do\index.htm">сколько осталось до</a>
+                <ul>
+                    <li><a href="..\..\skolko-ostalos-do\zimy\index.htm">сколько осталось до зимы</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\vesny\index.htm">сколько осталось до весны</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\leta\index.htm">сколько осталось до лета</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\oseni\index.htm">сколько осталось до осени</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-uchitelya\index.htm">сколько осталось до дня учителя</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-narodnogo-edinstva\index.htm">сколько осталось до дня народного единства</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-konstitucii-rf\index.htm">сколько осталось до дня конституции рф</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\katolicheskogo-rozhdestva\index.htm">сколько осталось до католического рождества</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\novogo-goda\index.htm">сколько осталось до нового года</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\pravoslavnogo-rozhdestva-v-rossii\index.htm">сколько осталось до Православного Рождества</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\starogo-novogo-goda\index.htm">сколько осталось до старого нового года</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-studenta-i-tatyany\index.htm">сколько осталось до дня студента/татьянин день</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-svyatogo-valentina\index.htm">сколько осталось до дня святого валентина</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-zashchitnika-otechestva\index.htm">сколько осталось до дня защитника отечества</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\kitajskogo-novogo-goda\index.htm">сколько осталось до китайского нового года</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\maslenicy\index.htm">сколько осталось до масленицы</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\mezhdunarodnogo-zhenskogo-dnya\index.htm">сколько осталось до международного женского дня</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-smekha\index.htm">сколько осталось до 1 апреля</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-kosmonavtiki\index.htm">сколько осталось до дня космонавтики</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\pravoslavnoj-svetloj-paskhi\index.htm">сколько осталось до Православной Светлой Пасхи</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\katolicheskoj-svetloj-paskhi\index.htm">сколько осталось до католической светлой пасхи</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\prazdnika-vesny-i-truda\index.htm">сколько осталось до 1 мая</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-pobedy\index.htm">сколько осталось до дня победы</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-rossii\index.htm">сколько осталось до дня россии</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\konca-sveta\index.htm">сколько осталось до конца света</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\nochi\index.htm">сколько осталось до ночи</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\okonchaniya-sroka-putina\index.htm">сколько осталось Путину быть президентом</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="..\..\sluzhba-tochnogo-vremeni\index.htm">служба точного времени</a>
+                <ul>
+                    <li><a href="..\..\sluzhba-tochnogo-vremeni\nomera-telefonov\index.htm">телефонные номера служб точного времени</a></li>
+                    <li><a href="..\..\sluzhba-tochnogo-vremeni\zakon-rf\index.htm">закон о времени в Российской Федерации</a></li>
+                    <li><a href="..\..\sluzhba-tochnogo-vremeni\chasy-bezier\index.htm">часы по принципу кривых Безье</a></li>
+                    <li><a href="..\..\sluzhba-tochnogo-vremeni\timestamp-unix\index.htm">unix epoch время - Timestamp</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="..\index.htm">калькуляторы времени</a>
+                <ul>
+                    <li><a href="..\vremya-mezhdu-dvumya-datami\index.htm">время между двумя датами</a></li>
+                    <li><a href="..\data-cherez-x-dnej\index.htm">дата через Х дней</a></li>
+                    <li><a href="..\den-nedeli-po-date\index.htm">узнать день недели по дате</a></li>
+                    <li><a href="..\konverter-unix-epoch\index.htm">конвертер unix epoch времени</a></li>
+                    <li><a href="..\vremya-poleta-na-samolete\index.htm">время полета на самолете из пункта А в Б</a></li>
+                    <li><a href="..\schetchik-rozhdaemosti\index.htm">счетчик рождаемости в России и мире</a></li>
+                    <li><a href="index.htm">счетчик смертности в России и мире</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <!-- end mobile menu -->
+</ul>
+
+<div class="head">
+    <img src="..\..\img\stat.png" alt="Счетчик смертности в России и мире">
+</div>
+<div class="content" style="padding: 10px 20px;">
+    <div class="citem1"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- seku_ad1 -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8091271152268111" data-ad-slot="5132102094" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+    <div class="content-main skolko-do" style="padding: 0 20px;">
+        <div class="metronom-title">Наглядная смертность</div>
+        <div><span class="timer" id="timer" data-mir="158685" data-rus="5180">00</span></div>
+        <div class="control-items">
+            <label><input class="changeType mir" onchange="changeType('mir')" type="checkbox" checked="" autocomplete="off"> Во всём мире</label>
+            <label><input class="changeType rus" onchange="changeType('rus')" type="checkbox" autocomplete="off"> Только в России</label>
+        </div>
+        <div class="hotkeys">
+            <strong>ПРОБЕЛ</strong> - пауза,
+            <strong>R или ESC</strong> - обнулить
+        </div>
+    </div>
+    <div class="citem2"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-8091271152268111" data-ad-slot="9805844278"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</div>
+
+<div class="citem_mobile1"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- seku_mobile1 -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8091271152268111" data-ad-slot="3430355225" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+<div class="share container">
+    <h3>Поддержи проект, поделись нашим сайтом с друзьями. Спасибо!</h3>
+    <script src="https://yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+    <script src="https://yastatic.net/share2/share.js"></script>
+    <div class="ya-share2" data-services="vkontakte,facebook,odnoklassniki,moimir,twitter,lj"></div>
+</div>
+    <div class="content-text container">
+        <div class="content-text-left"><div class="citem4" data-sticky-wrap="true"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- seku_ad4 -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8091271152268111" data-ad-slot="7042297175" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+        <div class="content-text-center">
+            <div class="citem3"> <a href="https://omg-vr.ru" target="_blank"><picture>
+            <source media="(min-width: 900px)" srcset="..\..\img\banner\ad3_970.jpg">
+            <source media="(min-width: 480px)" srcset="..\..\img\banner\ad3_480.jpg">
+            <img src="..\..\img\banner\ad3_336.jpg">
+        </picture></a>
+</div>
+            <div class="article">
+                <div class="article">
+<p><h2 style="text-align: center;">Наглядная смертность &ndash; онлайн сервис точной статистики</h2><p>Смертность является статистическим показателем, важным для анализа демографической ситуации, уровня социального развития, благополучия населения. Отследить, сколько человек умирает во всем мире или только в России, можно на этой странице &ndash; мы разработали удобный онлайн сервис точной статистики смертности. Калькулятор автоматически и абсолютно бесплатно считает число умерших людей и наглядно демонстрирует эти данные, чтобы их было проще воспринимать.</p><h2 style="text-align: center;">Для каких целей знать, сколько человек умирает в режиме реального времени?</h2><p>Мы создали полезную и удобную площадку, где представлен калькулятор статистики смертности, работающий онлайн. Ресурс будет полезен для многих посетителей:</p><ul><li>просто любознательных людей с пытливым умом;</li><li>тех, кто готовит доклад, связанный со статистикой и демографией;</li><li>пользователей, желающих сравнить рождаемость и смертность;</li><li>наших гостей, которых интересует число смертей в России и мире.</li></ul><p>Самая частая причина, по которой к нам заходят посетители &ndash; любопытство и стремление получить новую полезную информацию, сервис онлайн статистики как раз поможет в этом.</p><h2 style="text-align: center;">Как узнать статистику смертности в России и мире онлайн?</h2><p>Калькулятор статистики, представленный на странице, работает полностью дистанционно &ndash; не требуется установка программы на компьютер или смартфон. Чтобы выяснить, сколько человек умирает в режиме реального времени, необходимо:</p><ol><li>Зайти на страницу &ndash; калькулятор начнет автоматический подсчет смертей по всему миру.</li><li>Проставить флажок напротив &laquo;Только в России&raquo;, если хотите узнать статистику исключительно по своей стране.</li><li>Нажать ПРОБЕЛ для остановки таймера, аналогичная команда действует для возобновления расчетов.</li><li>Клавиши R или ESC полностью обнулят результат &ndash; программа начнет считать сначала.</li></ol><p>Также для получения более полной демографической картины мы рекомендуем использовать калькулятор рождаемости &ndash; можно сравнить два этих показателя. Для расчета смертности за определенный временной интервал, например, минуту или час, воспользуйтесь другими нашими сервисами &ndash; онлайн секундомером или онлайн таймером.</p><h2 style="text-align: center;">Демографическая сводка смертности в России и мире</h2><p>Уровень смертности во всем мире зависит от развития системы здравоохранения, благосостояния населения, среднего возраста жителей. Кроме того, влияют и чрезвычайные факторы &ndash; войны, вооруженные конфликты, крупные катастрофы, природные катаклизмы. Исторически выделяются несколько типов смертности:</p><ul><li>архаичный или экзогенный &ndash; характерен для эпохи вплоть до Средних веков, продолжительность жизни &ndash; около 21 года, причинами смерти стали эпидемии, голод, катастрофы;</li><li>традиционный &ndash; свойственен мировому сообществу вплоть до начала XX века, продолжительность жизни увеличилась до 35 лет, медицина шагнула вперед, хотя по-прежнему доминируют внешние причины смертности;</li><li>современный &ndash; существенно увеличивается продолжительность жизни, преобладают внутренние причины смертности, обусловленные заболеваниями.</li></ul><p>Также в последние годы наблюдается снижение числа детских смертей, в России этот показатель находится на уровне 7%. Ежегодно в мире умирает свыше 60 млн. человек, в день этот показатель превышает 170 тыс. людей.</p><h2 style="text-align: center;">ТОП-5 причин смертей &ndash; из-за чего умирают люди сегодня чаще всего?</h2><p>Аналитики проанализировали причины смертности по всему миру, в том числе &ndash; в России, и выяснили, из-за чего в 2019 году чаще всего умирают люди:</p><ul><li>ишемическая болезнь сердца &ndash; 15,5% смертей;</li><li>инсульты &ndash; 11,06%;</li><li>острые инфекции нижних дыхательных путей &ndash; 5,65%;</li><li>хроническая болезнь легких &ndash; 5,62%;</li><li>рак легких, трахеи, бронхов &ndash; 3,00%.</li></ul><p>Самыми частыми причинами смертей становятся тяжелые заболевания органов дыхательной и сердечно-сосудистой системы. Внешние факторы сегодня приводят к летальному исходу значительно реже, чем раньше. Используйте наш калькулятор статистики онлайн, чтобы отследить смертность в России и мире &ndash; это бесплатно, легко, удобно, полезно для тех, кому нужны точные и достоверные данные.</p>
+                </div>
+            </div>
+        </div>
+        <div class="content-text-right"><div class="citem5" data-sticky-wrap="true"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- seku_ad5 -->
+<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8091271152268111" data-ad-slot="1406827117"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+    </div>
+
+<div class="citem_mobile2"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-8091271152268111" data-ad-slot="6471451538"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+<div class="footer-links container">
+    <ul>
+        <li><a href="..\..\feedback\index.htm">Обратная связь</a></li>
+        <li><a href="..\..\ads\index.htm">По рекламе</a></li>
+        <li><a href="..\..\sitemap\index.htm">Карта сайта</a></li>
+        <li><a href="..\..\privacy-policy\index.htm">Политика конфиденциальности</a></li>
+        <li><a href="..\..\instrumenty-webmastera\index.htm">Инструменты для вебмастера</a></li>
+    </ul>
+</div>
+
+
+<div class="footer">
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(54620506, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+        });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/54620506" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+            Онлайн секундомер и другие сервисы &copy; 2010-2020    </div>
+
+</body>
+</html>
