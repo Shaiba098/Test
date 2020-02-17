@@ -1,0 +1,888 @@
+Uri: https://sekundomer.net/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/style/datepicker.material.css
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\style\datepicker.material.css
+Content Type: text/css
+
+Uri: https://sekundomer.net/style/style.css?v=6
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\style\style.css
+Content Type: text/css
+
+Uri: https://sekundomer.net/style/mobile.css?v=5
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\style\mobile.css
+Content Type: text/css
+
+Uri: https://sekundomer.net/onlinetimer/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\onlinetimer\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/onlinebudilnik/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\onlinebudilnik\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/onlinemetronom/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\onlinemetronom\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/onlinemetronom/tablica-tempov/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\onlinemetronom\tablica-tempov\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/onlinemetronom/istoriya/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\onlinemetronom\istoriya\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/onlinemetronom/modeli/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\onlinemetronom\modeli\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/zimy/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\zimy\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/vesny/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\vesny\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/leta/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\leta\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/oseni/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\oseni\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/dnya-uchitelya/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\dnya-uchitelya\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/dnya-narodnogo-edinstva/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\dnya-narodnogo-edinstva\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/dnya-konstitucii-rf/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\dnya-konstitucii-rf\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/katolicheskogo-rozhdestva/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\katolicheskogo-rozhdestva\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/novogo-goda/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\novogo-goda\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/pravoslavnogo-rozhdestva-v-rossii/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\pravoslavnogo-rozhdestva-v-rossii\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/starogo-novogo-goda/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\starogo-novogo-goda\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/dnya-studenta-i-tatyany/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\dnya-studenta-i-tatyany\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/dnya-svyatogo-valentina/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\dnya-svyatogo-valentina\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/dnya-zashchitnika-otechestva/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\dnya-zashchitnika-otechestva\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/kitajskogo-novogo-goda/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\kitajskogo-novogo-goda\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/maslenicy/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\maslenicy\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/mezhdunarodnogo-zhenskogo-dnya/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\mezhdunarodnogo-zhenskogo-dnya\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/dnya-smekha/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\dnya-smekha\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/dnya-kosmonavtiki/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\dnya-kosmonavtiki\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/pravoslavnoj-svetloj-paskhi/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\pravoslavnoj-svetloj-paskhi\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/katolicheskoj-svetloj-paskhi/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\katolicheskoj-svetloj-paskhi\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/prazdnika-vesny-i-truda/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\prazdnika-vesny-i-truda\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/dnya-pobedy/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\dnya-pobedy\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/dnya-rossii/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\dnya-rossii\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/konca-sveta/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\konca-sveta\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/nochi/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\nochi\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/skolko-ostalos-do/okonchaniya-sroka-putina/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\skolko-ostalos-do\okonchaniya-sroka-putina\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/sluzhba-tochnogo-vremeni/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\sluzhba-tochnogo-vremeni\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/sluzhba-tochnogo-vremeni/nomera-telefonov/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\sluzhba-tochnogo-vremeni\nomera-telefonov\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/sluzhba-tochnogo-vremeni/zakon-rf/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\sluzhba-tochnogo-vremeni\zakon-rf\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/sluzhba-tochnogo-vremeni/chasy-bezier/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\sluzhba-tochnogo-vremeni\chasy-bezier\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/sluzhba-tochnogo-vremeni/timestamp-unix/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\sluzhba-tochnogo-vremeni\timestamp-unix\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/calcs/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\calcs\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/calcs/vremya-mezhdu-dvumya-datami/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\calcs\vremya-mezhdu-dvumya-datami\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/calcs/data-cherez-x-dnej/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\calcs\data-cherez-x-dnej\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/calcs/den-nedeli-po-date/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\calcs\den-nedeli-po-date\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/calcs/konverter-unix-epoch/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\calcs\konverter-unix-epoch\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/calcs/vremya-poleta-na-samolete/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\calcs\vremya-poleta-na-samolete\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/calcs/schetchik-rozhdaemosti/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\calcs\schetchik-rozhdaemosti\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/calcs/schetchik-smertnosti/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\calcs\schetchik-smertnosti\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/feedback/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\feedback\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/ads/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\ads\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/sitemap/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\sitemap\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/privacy-policy/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/instrumenty-webmastera/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\instrumenty-webmastera\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/js/jquery-3.2.1.min.js
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\jquery-3.2.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/js/sticky.min.js
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\sticky.min.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/js/datepicker.js
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\datepicker.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/js/script.js?v=4
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\script.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/js/howler.min.js
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\howler.min.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/js/sekundomer.js
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\sekundomer.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/img/menu.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\menu.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/sekundomer2.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\sekundomer2.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/banner/ad3_336.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\banner\ad3_336.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/banner/ad3_970.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\banner\ad3_970.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/banner/ad3_480.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\banner\ad3_480.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/sound_on.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\sound_on.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/sound_off.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\sound_off.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/start.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\start.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/test.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\test.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/stop.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\stop.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/zero.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\zero.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/refresh.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\refresh.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/s1.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\s1.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/s2.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\s2.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/s3.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\s3.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/s4.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\s4.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/u1484.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\u1484.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/js/timer.js?v=3
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\timer.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/img/timer.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\timer.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/shkolniy_zvonok_platona.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\shkolniy_zvonok_platona.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/js/alarmclock.js?v=3
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\alarmclock.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/img/alarmclock.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\alarmclock.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/budilnik_pavlin_ermitazh.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\budilnik_pavlin_ermitazh.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/kitaiskiy_budilnik.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\kitaiskiy_budilnik.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/js/metronom.js?v=2
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\metronom.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/img/metronom.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\metronom.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/Iogan_Nepomuk_Meltzel.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Iogan_Nepomuk_Meltzel.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Galileo_Galilei.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Galileo_Galilei.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Iogan_Meltzel.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Iogan_Meltzel.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/BEHRINGER_BTR2000.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\BEHRINGER_BTR2000.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/BOSS_DB-30.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\BOSS_DB-30.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/boss-db-60.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\boss-db-60.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/BOSS_DB-90.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\BOSS_DB-90.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/BOSS_TU-80.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\BOSS_TU-80.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Cherub_WSM-003.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Cherub_WSM-003.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Cherub_WSM-260.jpeg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Cherub_WSM-260.jpeg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Cherub_WSM-330.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Cherub_WSM-330.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Fender_MT-1000.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Fender_MT-1000.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Ibanez_MU40.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Ibanez_MU40.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/KORG_Beatlab.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\KORG_Beatlab.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/KORG_KDM-2.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\KORG_KDM-2.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/KORG_MA-30.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\KORG_MA-30.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/KORG_MM-1.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\KORG_MM-1.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/KORG_TM-40.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\KORG_TM-40.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Musedo_M10.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Musedo_M10.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Musedo_M-11.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Musedo_M-11.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Musedo_M-12.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Musedo_M-12.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Planet_Waves_Deluxe_Tuner_Metronome.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Planet_Waves_Deluxe_Tuner_Metronome.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Planet_Waves_Metronome_Tuner.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Planet_Waves_Metronome_Tuner.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/SEIKO_DM100.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\SEIKO_DM100.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/SEIKO_DM50.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\SEIKO_DM50.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/SEIKO_DM70.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\SEIKO_DM70.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/SEIKO_SPM370.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\SEIKO_SPM370.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/SEIKO_SQ50V.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\SEIKO_SQ50V.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/SEIKO_SQ70.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\SEIKO_SQ70.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/SEIKO_WPM1000.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\SEIKO_WPM1000.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Sabine_MT9000.jpeg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Sabine_MT9000.jpeg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Sabine_ZipBeat-6000.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Sabine_ZipBeat-6000.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Wittner_Maelzel.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Wittner_Maelzel.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Wittner_TAKTELL_CLASSIC.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Wittner_TAKTELL_CLASSIC.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Wittner_TAKTELL_ELECTRONIC.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Wittner_TAKTELL_ELECTRONIC.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/TAKTELL_IN_SHAPE_OF_ANIMALS.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\TAKTELL_IN_SHAPE_OF_ANIMALS.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/TAKTELL_JUNIOR.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\TAKTELL_JUNIOR.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Wittner_TAKTELL_PICCOLINO.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Wittner_TAKTELL_PICCOLINO.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Wittner_TAKTELL_PICCOLO.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Wittner_TAKTELL_PICCOLO.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Wittner_TAKTELL_PRELUDE.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Wittner_TAKTELL_PRELUDE.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Wittner_TAKTELL_QUARTZ_QM_2.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Wittner_TAKTELL_QUARTZ_QM_2.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/Wittner_TAKTELL_SUPER-MINI.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\Wittner_TAKTELL_SUPER-MINI.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/YAMAHA_QT1.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\YAMAHA_QT1.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do/u74.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u74.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u79.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u79.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do/u84.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u84.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do/u89.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u89.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do/u194.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u194.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u99.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u99.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u179.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u179.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u104.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u104.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u109.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u109.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do/u114.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u114.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u119.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u119.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u124.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u124.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u129.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u129.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u134.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u134.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u139.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u139.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u144.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u144.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u149.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u149.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u184.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u184.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u189.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u189.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u154.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u154.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u159.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u159.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u164.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u164.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u169.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u169.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u174.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u174.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u204.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u204.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u209.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u209.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u214.jpeg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u214.jpeg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do/u219.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do\u219.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/skolko-do-full/u312.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u312.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/js/do.js?v=3
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\do.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/img/do.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\do.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u230.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u230.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/do-prazdnik.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\do-prazdnik.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u271.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u271.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u352.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u352.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u393.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u393.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u472.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u472.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u513.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u513.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u554.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u554.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u595.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u595.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u636.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u636.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u677.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u677.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u718.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u718.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u797.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u797.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u838.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u838.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u879.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u879.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u920.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u920.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u961.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u961.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u1002.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u1002.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u1043.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u1043.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u1122.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u1122.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u1201.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u1201.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u1242.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u1242.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/skolko-do-full/u1283.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\skolko-do-full\u1283.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/js/alarmclock.js?v=2
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\alarmclock-1.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/img/logo.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\logo.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/nulevoi_meridian.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\nulevoi_meridian.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/js/beze.js
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\beze.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/img/beze.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\beze.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/js/unix.js
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\unix.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/img/unix.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\unix.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/calc.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\calc.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/calc/1.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\calc\1.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/calc/2.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\calc\2.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/calc/3.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\calc\3.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/calc/u1584.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\calc\u1584.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/calc/u1594.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\calc\u1594.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/calc/u1599.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\calc\u1599.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/js/calc.js?v=2
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\calc.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/img/q.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\q.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/p.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\p.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/js/calc.js
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\calc-1.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/js/geo.js
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\geo.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/img/s_a.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\s_a.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/s.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\s.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/js/counter.js
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\counter.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/img/stat.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\stat.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/tg1.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\tg1.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/mai.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\mai.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/truba.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\truba.png
+Content Type: image/png
+
+Uri: https://sekundomer.net/img/tip_ustroistva.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\tip_ustroistva.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/vozrast_auditorii.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\vozrast_auditorii.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/geographiya.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\geographiya.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/pol.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\pol.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/interesy_auditorii.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\interesy_auditorii.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/img/reklamniye_pozicii.jpg
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\reklamniye_pozicii.jpg
+Content Type: image/jpeg
+
+Uri: https://sekundomer.net/sekundomer/
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\sekundomer\index.htm
+Content Type: text/html
+
+Uri: https://sekundomer.net/js/jscolor.js
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\jscolor.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/js/widget.js?v=2
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\js\widget.js
+Content Type: application/x-javascript
+
+Uri: https://sekundomer.net/img/tools.png
+File Name: C:\Downloaded Web Sites\111\sekundomer.net\img\tools.png
+Content Type: image/png
+

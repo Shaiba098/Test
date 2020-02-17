@@ -1,0 +1,338 @@
+﻿<!doctype html>
+<html>
+<head>
+    <title>Калькулятор времени между двумя датами</title>
+    <meta name="description" content="Часто возникает ситуация, когда необходимо посчитать точное время и число дней между двумя датами на календаре. На помощь придет на калькулятор. Он умеет считать все дни, будние или выходные.">
+    <meta name="keywords" content="калькулятор время между двумя датами точно дни рабочие будни выходные все">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="yandex-verification" content="168fdfe93ae759f5">
+    <link rel="stylesheet" type="text/css" href="..\..\style\datepicker.material.css">
+    <link rel="stylesheet" type="text/css" href="..\..\style\style.css?v=6">
+    <link rel="stylesheet" type="text/css" href="..\..\style\mobile.css?v=5">
+    <script src="..\..\js\jquery-3.2.1.min.js"></script>
+    <script charset="utf-8" src="https://api-maps.yandex.ru/1.1/index.xml" type="text/javascript"></script>
+    <script src="..\..\js\sticky.min.js"></script>
+    <script src="..\..\js\datepicker.js"></script>
+    <script src="..\..\js\script.js?v=4"></script>
+    <script src="..\..\js\howler.min.js"></script>
+
+    <script src="..\..\js\calc.js?v=2"></script>    
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-8091271152268111",
+          enable_page_level_ads: true
+     });
+</script>
+
+    
+</head>
+
+<body>
+
+<ul id="links">
+    <li><a href="..\..\index.htm">онлайн секундомер</a></li>
+    <li><a href="..\..\onlinetimer\index.htm">онлайн таймер</a></li>
+    <li><a href="..\..\onlinebudilnik\index.htm">онлайн будильник</a></li>
+    <li>
+        <a href="..\..\onlinemetronom\index.htm">онлайн метроном</a>        <ul>
+            <li><a href="..\..\onlinemetronom\tablica-tempov\index.htm">таблица темпов</a></li>
+            <li><a href="..\..\onlinemetronom\istoriya\index.htm">история метронома</a></li>
+            <li><a href="..\..\onlinemetronom\modeli\index.htm">модели метрономов</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="..\..\skolko-ostalos-do\index.htm">сколько осталось до</a>        <ul>
+            <li>
+                <span>времена года</span>
+                <ul>
+                    <li><a href="..\..\skolko-ostalos-do\zimy\index.htm">сколько осталось до зимы</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\vesny\index.htm">сколько осталось до весны</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\leta\index.htm">сколько осталось до лета</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\oseni\index.htm">сколько осталось до осени</a></li>
+                </ul>
+            </li>
+            <li>
+                <span>праздники</span>
+                <ul>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-uchitelya\index.htm">сколько осталось до дня учителя</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-narodnogo-edinstva\index.htm">сколько осталось до дня народного единства</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-konstitucii-rf\index.htm">сколько осталось до дня конституции рф</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\katolicheskogo-rozhdestva\index.htm">сколько осталось до католического рождества</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\novogo-goda\index.htm">сколько осталось до нового года</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\pravoslavnogo-rozhdestva-v-rossii\index.htm">сколько осталось до Православного Рождества</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\starogo-novogo-goda\index.htm">сколько осталось до старого нового года</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-studenta-i-tatyany\index.htm">сколько осталось до дня студента/татьянин день</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-svyatogo-valentina\index.htm">сколько осталось до дня святого валентина</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-zashchitnika-otechestva\index.htm">сколько осталось до дня защитника отечества</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\kitajskogo-novogo-goda\index.htm">сколько осталось до китайского нового года</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\maslenicy\index.htm">сколько осталось до масленицы</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\mezhdunarodnogo-zhenskogo-dnya\index.htm">сколько осталось до международного женского дня</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-smekha\index.htm">сколько осталось до 1 апреля</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-kosmonavtiki\index.htm">сколько осталось до дня космонавтики</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\pravoslavnoj-svetloj-paskhi\index.htm">сколько осталось до Православной Светлой Пасхи</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\katolicheskoj-svetloj-paskhi\index.htm">сколько осталось до католической светлой пасхи</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\prazdnika-vesny-i-truda\index.htm">сколько осталось до 1 мая</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-pobedy\index.htm">сколько осталось до дня победы</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-rossii\index.htm">сколько осталось до дня россии</a></li>
+                </ul>
+            </li>
+            <li>
+                <span>прочие таймеры</span>
+                <ul>
+                    <li><a href="..\..\skolko-ostalos-do\konca-sveta\index.htm">сколько осталось до конца света</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\nochi\index.htm">сколько осталось до ночи</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\okonchaniya-sroka-putina\index.htm">сколько осталось Путину быть президентом</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <li class="right-sub">
+        <a href="..\..\sluzhba-tochnogo-vremeni\index.htm">служба точного времени</a>        <ul>
+            <li><a href="..\..\sluzhba-tochnogo-vremeni\nomera-telefonov\index.htm">телефонные номера служб точного времени</a></li>
+            <li><a href="..\..\sluzhba-tochnogo-vremeni\zakon-rf\index.htm">закон о времени в Российской Федерации</a></li>
+            <li><a href="..\..\sluzhba-tochnogo-vremeni\chasy-bezier\index.htm">часы по принципу кривых Безье</a></li>
+            <li><a href="..\..\sluzhba-tochnogo-vremeni\timestamp-unix\index.htm">unix epoch время - Timestamp</a></li>
+        </ul>
+    </li>
+    <li class="right-sub">
+        <a href="..\index.htm">калькуляторы времени</a>        <ul>
+            <li><a href="index.htm">время между двумя датами</a></li>
+            <li><a href="..\data-cherez-x-dnej\index.htm">дата через Х дней</a></li>
+            <li><a href="..\den-nedeli-po-date\index.htm">узнать день недели по дате</a></li>
+            <li><a href="..\konverter-unix-epoch\index.htm">конвертер unix epoch времени</a></li>
+            <li><a href="..\vremya-poleta-na-samolete\index.htm">время полета на самолете из пункта А в Б</a></li>
+            <li><a href="..\schetchik-rozhdaemosti\index.htm">счетчик рождаемости в России и мире</a></li>
+            <li><a href="..\schetchik-smertnosti\index.htm">счетчик смертности в России и мире</a></li>
+        </ul>
+    </li>
+
+    <!-- start mobile menu -->
+    <li class="mobile-menu">
+        <a class="mobile-menu-trigger" href="#"><img src="..\..\img\menu.png"></a>
+        <ul class="mobile-menu-wrap">
+            <li><a href="..\..\onlinebudilnik\index.htm">онлайн будильник</a></li>
+            <li>
+                <a href="..\..\onlinemetronom\index.htm">онлайн метроном</a>
+                <ul>
+                    <li><a href="..\..\onlinemetronom\tablica-tempov\index.htm">- таблица темпов</a></li>
+                    <li><a href="..\..\onlinemetronom\istoriya\index.htm">- история метронома</a></li>
+                    <li><a href="..\..\onlinemetronom\modeli\index.htm">- модели метрономов</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="..\..\skolko-ostalos-do\index.htm">сколько осталось до</a>
+                <ul>
+                    <li><a href="..\..\skolko-ostalos-do\zimy\index.htm">сколько осталось до зимы</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\vesny\index.htm">сколько осталось до весны</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\leta\index.htm">сколько осталось до лета</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\oseni\index.htm">сколько осталось до осени</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-uchitelya\index.htm">сколько осталось до дня учителя</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-narodnogo-edinstva\index.htm">сколько осталось до дня народного единства</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-konstitucii-rf\index.htm">сколько осталось до дня конституции рф</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\katolicheskogo-rozhdestva\index.htm">сколько осталось до католического рождества</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\novogo-goda\index.htm">сколько осталось до нового года</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\pravoslavnogo-rozhdestva-v-rossii\index.htm">сколько осталось до Православного Рождества</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\starogo-novogo-goda\index.htm">сколько осталось до старого нового года</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-studenta-i-tatyany\index.htm">сколько осталось до дня студента/татьянин день</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-svyatogo-valentina\index.htm">сколько осталось до дня святого валентина</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-zashchitnika-otechestva\index.htm">сколько осталось до дня защитника отечества</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\kitajskogo-novogo-goda\index.htm">сколько осталось до китайского нового года</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\maslenicy\index.htm">сколько осталось до масленицы</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\mezhdunarodnogo-zhenskogo-dnya\index.htm">сколько осталось до международного женского дня</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-smekha\index.htm">сколько осталось до 1 апреля</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-kosmonavtiki\index.htm">сколько осталось до дня космонавтики</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\pravoslavnoj-svetloj-paskhi\index.htm">сколько осталось до Православной Светлой Пасхи</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\katolicheskoj-svetloj-paskhi\index.htm">сколько осталось до католической светлой пасхи</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\prazdnika-vesny-i-truda\index.htm">сколько осталось до 1 мая</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-pobedy\index.htm">сколько осталось до дня победы</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\dnya-rossii\index.htm">сколько осталось до дня россии</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\konca-sveta\index.htm">сколько осталось до конца света</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\nochi\index.htm">сколько осталось до ночи</a></li>
+                    <li><a href="..\..\skolko-ostalos-do\okonchaniya-sroka-putina\index.htm">сколько осталось Путину быть президентом</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="..\..\sluzhba-tochnogo-vremeni\index.htm">служба точного времени</a>
+                <ul>
+                    <li><a href="..\..\sluzhba-tochnogo-vremeni\nomera-telefonov\index.htm">телефонные номера служб точного времени</a></li>
+                    <li><a href="..\..\sluzhba-tochnogo-vremeni\zakon-rf\index.htm">закон о времени в Российской Федерации</a></li>
+                    <li><a href="..\..\sluzhba-tochnogo-vremeni\chasy-bezier\index.htm">часы по принципу кривых Безье</a></li>
+                    <li><a href="..\..\sluzhba-tochnogo-vremeni\timestamp-unix\index.htm">unix epoch время - Timestamp</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="..\index.htm">калькуляторы времени</a>
+                <ul>
+                    <li><a href="index.htm">время между двумя датами</a></li>
+                    <li><a href="..\data-cherez-x-dnej\index.htm">дата через Х дней</a></li>
+                    <li><a href="..\den-nedeli-po-date\index.htm">узнать день недели по дате</a></li>
+                    <li><a href="..\konverter-unix-epoch\index.htm">конвертер unix epoch времени</a></li>
+                    <li><a href="..\vremya-poleta-na-samolete\index.htm">время полета на самолете из пункта А в Б</a></li>
+                    <li><a href="..\schetchik-rozhdaemosti\index.htm">счетчик рождаемости в России и мире</a></li>
+                    <li><a href="..\schetchik-smertnosti\index.htm">счетчик смертности в России и мире</a></li>
+                </ul>
+            </li>
+        </ul>
+    </li>
+    <!-- end mobile menu -->
+</ul>
+
+<div class="head">
+    <img src="..\..\img\calc.png" alt="Время между двумя датами">
+</div>
+<div class="content" style="padding: 10px 20px;">
+    <div class="citem1"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- seku_ad1 -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8091271152268111" data-ad-slot="5132102094" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+    <div class="content-main skolko-do alarmclock" style="padding: 0 20px;">
+        <div class="metronom-title">Время между двумя датами</div>
+
+        <div class="alarmclock-table">
+            <div class="alarmclock-input calc-input noneMobile">
+                <span style="text-align: center;font-size: 30px;white-space: nowrap;">Начальная дата</span>
+                <span style="text-align: center;font-size: 30px"></span>
+                <span style="text-align: center;font-size: 30px;white-space: nowrap;">Конечная дата</span>
+            </div>
+            <div class="alarmclock-input calc-input">
+                <span style="text-align: center">
+                    <span class="onlyMobile">Начальная дата </span>
+                    <input style="margin: 0" id="time_between_value_start" class="datepicker" required="" autocomplete="off">
+                    <div class="onlyMobile">
+                        <div class="skolko-do-btn" style="white-space: nowrap;">
+                            <a style="margin: 5px;padding: 5px 10px;" href="javascript:time_between_today();">сегодня</a>
+                            <a style="margin: 5px;padding: 5px 10px;" href="javascript:time_between_tomorrow();">завтра</a>
+                        </div>
+                    </div>
+                </span>
+                <span style="text-align: center;" class="noneMobile">
+                    <div class="line-arrow-r"></div>
+                    <img class="line-arrow-q" src="..\..\img\q.png">
+                </span>
+                <span style="text-align: center">
+                    <span class="onlyMobile">Конечная дата </span>
+                    <input style="margin: 0" id="time_between_value_end" class="datepicker" required="" autocomplete="off">
+                    <div class="onlyMobile">
+                        <div class="skolko-do-btn" style="white-space: nowrap;">
+                            <a style="margin: 5px;padding: 5px 10px;" href="javascript:time_between_plus7();">+7 дней</a>
+                            <a style="margin: 5px;padding: 5px 10px;" href="javascript:time_between_plus30();">+30 дней</a>
+                        </div>
+                    </div>
+                </span>
+            </div>
+            <div class="alarmclock-input calc-input noneMobile">
+                <span style="text-align: center;white-space: nowrap;">
+                    <div class="skolko-do-btn">
+                        <a style="margin: 5px;padding: 5px 10px;" href="javascript:time_between_today();">сегодня</a>
+                        <a style="margin: 5px;padding: 5px 10px;" href="javascript:time_between_tomorrow();">завтра</a>
+                    </div>
+                </span>
+                <span style="text-align: center;"></span>
+                <span style="text-align: center;white-space: nowrap;">
+                    <div class="skolko-do-btn">
+                        <a style="margin: 5px;padding: 5px 10px;" href="javascript:time_between_plus7();">+7 дней</a>
+                        <a style="margin: 5px;padding: 5px 10px;" href="javascript:time_between_plus30();">+30 дней</a>
+                    </div>
+                </span>
+            </div>
+        </div>
+
+        <div class="control-items">
+            <label><input id="time_between_type_1" class="changeType" type="checkbox" autocomplete="off"> Считать конечную дату за еще один день</label><br>
+            <label><input id="time_between_type_2" class="changeType" onchange="$('#time_between_type_3').prop('checked',false)" type="checkbox" autocomplete="off"> Посчитать только РАБОЧИЕ дни</label><br>
+            <label><input id="time_between_type_3" class="changeType" onchange="$('#time_between_type_2').prop('checked',false)" type="checkbox" autocomplete="off"> Посчитать только ВЫХОДНЫЕ дни</label><br>
+        </div>
+
+        <div class="skolko-do-btn"><a href="javascript:time_between();">Посчитать!</a></div>
+
+        <div class="results" id="time_between_results"></div>
+
+    </div>
+    <div class="citem2"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-8091271152268111" data-ad-slot="9805844278"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+</div>
+
+<div class="citem_mobile1"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- seku_mobile1 -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8091271152268111" data-ad-slot="3430355225" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+<div class="share container">
+    <h3>Поддержи проект, поделись нашим сайтом с друзьями. Спасибо!</h3>
+    <script src="https://yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+    <script src="https://yastatic.net/share2/share.js"></script>
+    <div class="ya-share2" data-services="vkontakte,facebook,odnoklassniki,moimir,twitter,lj"></div>
+</div>
+    <div class="content-text container">
+        <div class="content-text-left"><div class="citem4" data-sticky-wrap="true"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- seku_ad4 -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8091271152268111" data-ad-slot="7042297175" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+        <div class="content-text-center">
+            <div class="citem3"> <a href="https://omg-vr.ru" target="_blank"><picture>
+            <source media="(min-width: 900px)" srcset="..\..\img\banner\ad3_970.jpg">
+            <source media="(min-width: 480px)" srcset="..\..\img\banner\ad3_480.jpg">
+            <img src="..\..\img\banner\ad3_336.jpg">
+        </picture></a>
+</div>
+            <div class="article">
+                <div class="article">
+<p><h2 style="text-align: center;">Сколько дней между двумя датами &ndash; онлайн калькулятор времени</h2><p>Считать, сколько дней между двумя датами, нам приходится довольно часто, когда что-то планируем, готовимся к важным событиям, хотим все успеть и грамотно распорядиться временем. Как раз для этой цели и разработан онлайн калькулятор &ndash; программа, которая автоматически высчитывает время между двумя датами. Сидеть с календарем и выполнять работу вручную не нужно &ndash; используйте наш сайт, он бесплатный, удобный, функциональный.</p><h2 style="text-align: center;">Зачем считать, сколько дней между двумя датами?</h2><p>Зайти на наш сайт и воспользоваться онлайн калькулятором времени, считающим дни между датами, стоит не только из любопытства, но еще и из-за более практичных целей, например, чтобы:</p><ul><li>понять, сколько времени осталось до праздника, и начать подготовку;</li><li>узнать, как долго предстоит учиться до каникул;</li><li>посчитать число рабочих дней до очередного отпуска;</li><li>выяснить размер абонентской платы за мобильную связь при ежедневном списании средств;</li><li>определить точное время до премьеры фильма, который очень ждете;</li><li>рассчитать срок до сдачи курсовой или дипломной работы, важного проекта для заказчика;</li><li>понять, сколько дней будете отдыхать в этом году, месяце и другом промежутке времени.</li></ul><p>Посчитать, сколько дней пройдет между двумя датами, необходимо во многих жизненных ситуациях &ndash; наиболее часто наш онлайн калькулятор времени оказывается полезен для школьников, работников бухгалтерии, отдела кадров и многих других людей вне зависимости от возраста, пола, профессии.</p><h2 style="text-align: center;">Как использовать калькулятор, чтобы рассчитать дни между двумя датами?</h2><p>Посчитать время между двумя датами предельно просто &ndash; не нужно устанавливать программу, проходить регистрацию и что-либо платить. Воспользуйтесь нашим калькулятором онлайн по инструкции:</p><ol><li>Задайте начальную дату &ndash; вручную, в календаре, также можно выбрать &laquo;сегодня&raquo; или &laquo;завтра&raquo; в один клик.</li><li>Укажите конечную дату, к ней можно добавить неделю или месяц в одно касание &ndash; соответствующие клавиши находятся под формой ввода.</li><li>Проставьте флажок, если хотите посчитать дни, включая конечную дату.</li><li>Выберите только рабочие дни или только выходные, когда это необходимо.</li><li>Получите расчет &ndash; будет указано точное количество дней и часов.</li></ol><p> Сервис работает с любыми датами, которые находятся в прошлом или будущем. Наш калькулятор времени функционирует онлайн и на 100% бесплатно, позволяя узнать, сколько времени между двумя датами. Также на сайте есть и другие полезные программы &ndash; таймер, метроном, будильник, служба точного времени, поэтому обязательно добавьте ресурс в закладки, чтобы не пропустить важную и полезную информацию.</p>
+                </div>
+            </div>
+        </div>
+        <div class="content-text-right"><div class="citem5" data-sticky-wrap="true"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- seku_ad5 -->
+<ins class="adsbygoogle" style="display:inline-block;width:160px;height:600px" data-ad-client="ca-pub-8091271152268111" data-ad-slot="1406827117"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div>
+    </div>
+
+<div class="citem_mobile2"><script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-8091271152268111" data-ad-slot="6471451538"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+
+<div class="footer-links container">
+    <ul>
+        <li><a href="..\..\feedback\index.htm">Обратная связь</a></li>
+        <li><a href="..\..\ads\index.htm">По рекламе</a></li>
+        <li><a href="..\..\sitemap\index.htm">Карта сайта</a></li>
+        <li><a href="..\..\privacy-policy\index.htm">Политика конфиденциальности</a></li>
+        <li><a href="..\..\instrumenty-webmastera\index.htm">Инструменты для вебмастера</a></li>
+    </ul>
+</div>
+
+
+<div class="footer">
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript">
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+        ym(54620506, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+        });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/54620506" style="position:absolute; left:-9999px;" alt=""></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+            Онлайн секундомер и другие сервисы &copy; 2010-2020    </div>
+
+</body>
+</html>
